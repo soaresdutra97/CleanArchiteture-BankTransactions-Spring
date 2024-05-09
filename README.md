@@ -1,6 +1,6 @@
 Hello!
 
-This is a trining for Clean Architure using Java Spring 
+This is a training for Clean Architure using Java Spring 
 
 Context:
 
